@@ -21,10 +21,14 @@ Items expected or hoped for. Checked every weekly pass. Move to the relevant top
 - [ ] RootsTech 2027 announcements (expected Feb–Mar 2027). (DNA)
 - [ ] ASHG 2026 post-conference papers (Oct–Dec 2026). (DNA)
 
-## Policy
+## Policy and forensic
 
-- [ ] New state genetic-privacy or IGG statutes in 2026–27 sessions. (DNA)
-- [ ] Any court ruling on law-enforcement access to consumer DNA databases. (DNA)
+- [ ] Confirm final status and text of Maryland SB0678 (2026). (Forensic)
+- [ ] New state genetic-privacy or IGG statutes in 2026–27 sessions. (Forensic)
+- [ ] First appellate ruling squarely on warrantless IGG database searching. (Forensic)
+- [ ] Identification of Ottawa County, Ohio, 1975 Jane Doe and Atlantic City John Doe (1981). (Forensic)
+- [ ] Any change in GEDmatch (Qiagen) or FamilyTreeDNA law-enforcement matching policy; any subpoena served on Ancestry, 23andMe/TTAM or MyHeritage. (Forensic)
+- [ ] Public crime labs announcing in-house WGS for IGG. (Forensic)
 
 ## Open questions carried forward
 

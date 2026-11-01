@@ -28,7 +28,9 @@ Every substantive claim on a topic page carries one of these tags.
 - Conferences: RootsTech (Feb/Mar), ASHG (Oct), i4GG, ISBA, SAA, EAA
 
 **Forensic / policy**
-- DOJ interim policy on FGG, state legislation trackers, GEDmatch and FTDNA opt-in policy changes, major IGG identifications
+- DOJ interim policy on FGG, state legislation trackers (Maryland, Montana, Utah and new bills), GEDmatch and FTDNA opt-in policy changes
+- Othram DNASolves, Bode Technology, Parabon, DNA Doe Project, Ramapo College IGG Center case pages
+- NIJ and SWGDAM publications on IGG and forensic WGS; appellate rulings on IGG evidence; Forensic Magazine, Forensic Genealogy News, The Legal Genealogist
 
 ## Weekly update checklist
 
